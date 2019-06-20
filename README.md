@@ -7,12 +7,12 @@ _ Find visits by days/patient <br>
 _ Print reports of: number of visits per day, number of drugs prescribed
 
 ## Tools used
-_ Spring
-_ SpringMVC
-_ Attempt to use SpringSecurity to authenticate login process
-_ Hibernate
-_ PostgreSQL
-_ pgAdmin 4
+_ Spring <br>
+_ SpringMVC <br>
+_ Attempt to use SpringSecurity to authenticate login process <br>
+_ Hibernate <br>
+_ PostgreSQL <br>
+_ pgAdmin 4 <br>
 _________________________________________________________________________________________________________________________________________
 ## Assignment from
 Software Architecture: Design & Implementation course
